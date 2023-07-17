@@ -39,4 +39,4 @@ This project is a simulation of the Dining Philosophers problem, a classic synch
 - Ensure that the displayed state messages are not mixed up with other messages.
 - A message announcing a philosopher's death should be displayed no more than 10 ms after the actual time of death.
 
-Remember, the goal is to ensure that philosophers can eat without starving, avoid deadlocks, and maintain consistent state changes throughout the simulation.
+The goal is to ensure that philosophers can eat without starving, avoid deadlocks, and maintain consistent state changes throughout the simulation.
